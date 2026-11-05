@@ -8,8 +8,8 @@ Markup languages, web standards, and information management systems coursework f
 
 El contenido del módulo está organizado en bloques temáticos principales:
 
-* **`Fundamentos-HTML5-CSS3/`**: Estructura web semántica, hojas de estilo, diseño adaptativo y maquetación moderna.
-* **`Ecosistema-XML-XSD-XSLT/`**: Modelado de datos estructurados, validación mediante DTD y esquemas XSD, transformaciones con XSLT y consultas con XQuery (incluyendo casos prácticos y simulacros de examen).
+* **`fundamentos-html5-css3/`**: Estructura web semántica, hojas de estilo, diseño adaptativo y maquetación moderna.
+* **`ecosistema-xml-xsd-xslt/`**: Modelado de datos estructurados, validación mediante DTD y esquemas XSD, transformaciones con XSLT y consultas con XQuery (incluyendo casos prácticos y simulacros de examen).
 
 ---
 
